@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[Hexo]]></title>
+  <title><![CDATA[zoe]]></title>
   
   <link href="/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2015-01-08T04:10:21.181Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://izoefeng.xyz/"/>
+  <updated>2015-01-08T05:17:36.737Z</updated>
+  <id>http://izoefeng.xyz/</id>
   
   <author>
-    <name><![CDATA[John Doe]]></name>
+    <name><![CDATA[zhendong liu]]></name>
     
   </author>
   
@@ -16,10 +16,10 @@
   
   <entry>
     <title><![CDATA[回顾2014，展望2015]]></title>
-    <link href="http://yoursite.com/2014/12/30/2014-2015/"/>
-    <id>http://yoursite.com/2014/12/30/2014-2015/</id>
+    <link href="http://izoefeng.xyz/2014/12/30/2014-2015/"/>
+    <id>http://izoefeng.xyz/2014/12/30/2014-2015/</id>
     <published>2014-12-30T02:09:40.000Z</published>
-    <updated>2015-01-08T02:12:25.000Z</updated>
+    <updated>2015-01-08T05:16:59.000Z</updated>
     <content type="html"><![CDATA[<h2 id="引言">引言</h2>
 <pre><code>转眼2014年都即将过去了，感觉这一年还是发生了很多事，有必要缕一缕，总结一下，顺便展望一下来年。
 </code></pre><h2 id="2014回顾">2014回顾</h2>
@@ -42,14 +42,14 @@
 <pre><code>总的来说这一年]]>
     </summary>
     
-      <category term="future, life, study" scheme="http://yoursite.com/tags/future-life-study/"/>
+      <category term="study" scheme="http://izoefeng.xyz/tags/study/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[幸福吧]]></title>
-    <link href="http://yoursite.com/2014/11/21/the-first-post/"/>
-    <id>http://yoursite.com/2014/11/21/the-first-post/</id>
+    <link href="http://izoefeng.xyz/2014/11/21/the-first-post/"/>
+    <id>http://izoefeng.xyz/2014/11/21/the-first-post/</id>
     <published>2014-11-21T01:34:59.000Z</published>
     <updated>2015-01-08T04:08:40.000Z</updated>
     <content type="html"><![CDATA[<h4 id="凤凰花开">凤凰花开</h4>
@@ -60,16 +60,16 @@
 <p><img src="/picture/IMG_20140405_162524.jpg" alt="dong"><br><img src="/picture/IMG_20140405_154129.jpg" alt="feng"]]>
     </summary>
     
-      <category term="blog, life, study" scheme="http://yoursite.com/tags/blog-life-study/"/>
+      <category term="blog, life, study" scheme="http://izoefeng.xyz/tags/blog-life-study/"/>
     
-      <category term="blog" scheme="http://yoursite.com/categories/blog/"/>
+      <category term="blog" scheme="http://izoefeng.xyz/categories/blog/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[幸福吧]]></title>
-    <link href="http://yoursite.com/2014/11/21/the-first-post/"/>
-    <id>http://yoursite.com/2014/11/21/the-first-post/</id>
+    <link href="http://izoefeng.xyz/2014/11/21/the-first-post/"/>
+    <id>http://izoefeng.xyz/2014/11/21/the-first-post/</id>
     <published>2014-11-21T01:34:59.000Z</published>
     <updated>2015-01-08T04:08:40.000Z</updated>
     <content type="html"><![CDATA[<h4 id="凤凰花开">凤凰花开</h4>
@@ -80,16 +80,16 @@
 <p><img src="/picture/IMG_20140405_162524.jpg" alt="dong"><br><img src="/picture/IMG_20140405_154129.jpg" alt="feng"]]>
     </summary>
     
-      <category term="blog, life, study" scheme="http://yoursite.com/tags/blog-life-study/"/>
+      <category term="blog, life, study" scheme="http://izoefeng.xyz/tags/blog-life-study/"/>
     
-      <category term="blog" scheme="http://yoursite.com/categories/blog/"/>
+      <category term="blog" scheme="http://izoefeng.xyz/categories/blog/"/>
     
   </entry>
   
   <entry>
     <title><![CDATA[幸福吧]]></title>
-    <link href="http://yoursite.com/2014/11/21/the-first-post/"/>
-    <id>http://yoursite.com/2014/11/21/the-first-post/</id>
+    <link href="http://izoefeng.xyz/2014/11/21/the-first-post/"/>
+    <id>http://izoefeng.xyz/2014/11/21/the-first-post/</id>
     <published>2014-11-21T01:34:59.000Z</published>
     <updated>2015-01-08T04:08:40.000Z</updated>
     <content type="html"><![CDATA[<h4 id="凤凰花开">凤凰花开</h4>
@@ -100,29 +100,33 @@
 <p><img src="/picture/IMG_20140405_162524.jpg" alt="dong"><br><img src="/picture/IMG_20140405_154129.jpg" alt="feng"]]>
     </summary>
     
-      <category term="blog, life, study" scheme="http://yoursite.com/tags/blog-life-study/"/>
+      <category term="blog, life, study" scheme="http://izoefeng.xyz/tags/blog-life-study/"/>
     
-      <category term="blog" scheme="http://yoursite.com/categories/blog/"/>
+      <category term="blog" scheme="http://izoefeng.xyz/categories/blog/"/>
     
   </entry>
   
   <entry>
-    <title><![CDATA[zoe]]></title>
-    <link href="http://yoursite.com/2014/11/21/happy/"/>
-    <id>http://yoursite.com/2014/11/21/happy/</id>
+    <title><![CDATA[凤凰花开]]></title>
+    <link href="http://izoefeng.xyz/2014/11/21/happy/"/>
+    <id>http://izoefeng.xyz/2014/11/21/happy/</id>
     <published>2014-11-21T01:34:59.000Z</published>
-    <updated>2014-12-11T14:06:22.000Z</updated>
+    <updated>2015-01-08T05:16:35.000Z</updated>
     <content type="html"><![CDATA[<h4 id="凤凰花开">凤凰花开</h4>
-<p><img src="/picture/IMG_20140405_162524.jpg" alt="hello hexo"><br><img src="/picture/IMG_20140405_154129.jpg" alt="hello hexo"></p>
+<p><img src="/picture/dong1.jpg" alt="dong"></p>
+<p><img src="/picture/feng1.jpg" alt="feng"></p>
+<p><img src="/picture/together1.jpg" alt="love"></p>
 ]]></content>
     <summary type="html">
     <![CDATA[<h4 id="凤凰花开">凤凰花开</h4>
-<p><img src="/picture/IMG_20140405_162524.jpg" alt="hello hexo"><br><img src="/picture/IMG_20140405_154129.jpg" alt=]]>
+<p><img src="/picture/dong1.jpg" alt="dong"></p>
+<p><img src="/picture/feng1.jpg" alt="feng"></p>
+<p><img src="/pict]]>
     </summary>
     
-      <category term="blog, life, study" scheme="http://yoursite.com/tags/blog-life-study/"/>
+      <category term="life" scheme="http://izoefeng.xyz/tags/life/"/>
     
-      <category term="blog" scheme="http://yoursite.com/categories/blog/"/>
+      <category term="blog" scheme="http://izoefeng.xyz/categories/blog/"/>
     
   </entry>
   
