@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://izoefeng.xyz/"/>
-  <updated>2015-01-08T05:17:36.737Z</updated>
+  <updated>2015-01-08T05:33:58.803Z</updated>
   <id>http://izoefeng.xyz/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://izoefeng.xyz/2014/12/30/2014-2015/"/>
     <id>http://izoefeng.xyz/2014/12/30/2014-2015/</id>
     <published>2014-12-30T02:09:40.000Z</published>
-    <updated>2015-01-08T05:16:59.000Z</updated>
+    <updated>2015-01-08T05:26:45.000Z</updated>
     <content type="html"><![CDATA[<h2 id="引言">引言</h2>
 <pre><code>转眼2014年都即将过去了，感觉这一年还是发生了很多事，有必要缕一缕，总结一下，顺便展望一下来年。
 </code></pre><h2 id="2014回顾">2014回顾</h2>
@@ -31,7 +31,7 @@
 <h2 id="2015展望">2015展望</h2>
 </li>
 <li>学习<br> 虽然工作的事情暂时搞定，但仍要时刻保持学习，这一年一个深刻的体会就是要时刻保持探索精神和求知欲，对某一领域或某一技术感兴趣时就要怀着一颗探索的心去</li>
-<li>生活<br> 这一年风美女一直在外出差，所以自己也只能每天在早出晚归（貌似应该是玩出晚归）去实验室，学技术，搞科研，参加较多的活动也就是运动打球，包括乒乓球，羽毛球，篮球。生命在于运动，接下来一年要继续保持运动，然后明年凤美女应该就回武汉了，到时要多点生活乐趣，运动，图书馆自习看书，一起旅游</li>
+<li>生活<br> 这一年凤美女一直在外出差，所以自己也只能每天在早出晚归（貌似应该是玩出晚归）去实验室，学技术，搞科研，参加较多的活动也就是运动打球，包括乒乓球，羽毛球，篮球。生命在于运动，接下来一年要继续保持运动，然后明年凤美女应该就回武汉了，到时要多点生活乐趣，运动，图书馆自习看书，一起旅游</li>
 <li>工作<br> 工作找到了，还比较满意，明年就要毕业，开始工作，想想兴奋与忧虑并重</li>
 </ol>
 ]]></content>
@@ -43,6 +43,8 @@
     </summary>
     
       <category term="study" scheme="http://izoefeng.xyz/tags/study/"/>
+    
+      <category term="blog" scheme="http://izoefeng.xyz/categories/blog/"/>
     
   </entry>
   
